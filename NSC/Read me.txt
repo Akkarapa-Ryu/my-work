@@ -3,3 +3,9 @@ NSC
 
 --------------------------------
 
+Harmonic motion in a simulation model.exe
+
+----------------------------------
+
+NSC2020 Project.exe
+เป็นผลงานที่ต้องใช้งานร่วมกับ Leap Motion การเล่น
