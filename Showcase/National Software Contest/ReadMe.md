@@ -8,7 +8,7 @@ Harmonic motion in a simulation model.exe
 
 ----------------------------------
 
-NSC2020 Project.exe
+Heart problems with spectacles girl
 เป็นผลงานที่ต้องใช้งานร่วมกับ Leap Motion การเล่น
 เป็นเรื่องเกี่ยวกับ หัวใจและหลอดเลือด
 
